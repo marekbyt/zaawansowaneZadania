@@ -11,7 +11,7 @@ public class Task4 {
         System.out.println("printValues");
         storage.printValue("0");
         storage.findValue("value0_1");
-        
+
 
     }
 
